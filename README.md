@@ -10,7 +10,7 @@ CONCLUSIONS: Lung transplant recipients have reduced microbial diversity in gast
 Please cite our [paper](https://www.jhltonline.org/article/S1053-2498(20)31860-X/fulltext):<br/> Lötstedt, B., Boyer, D., Visner, G., Freiberger, D., Lurie, M., Kane, M., DiFilippo, C., Lundeberg, J., Narvaez-Rivas, M., Setchell, K., Alm, E., Rosen, R., 2021. The impact of gastrointestinal dysmotility on the aerodigestive microbiome of pediatric lung transplant recipients. The Journal of Heart and Lung Transplantation 40, 210–219. [https://doi.org/10.1016/j.healun.2020.11.013](https://doi.org/10.1016/j.healun.2020.11.013)
 
 ## Data availability
-Raw fastq files and input files to generate the figures are avaialble at Zenodo <a href="https://zenodo.org/badge/latestdoi/266132196"><img src="https://zenodo.org/badge/266132196.svg" alt="DOI"></a>
+Raw fastq files and input files to generate the figures are available at Zenodo <a href="https://zenodo.org/badge/latestdoi/266132196"><img src="https://zenodo.org/badge/266132196.svg" alt="DOI"></a>
 
 ## Code
 Please see [Figures](./Figures) for the code to generate the figures presented in the paper.  
